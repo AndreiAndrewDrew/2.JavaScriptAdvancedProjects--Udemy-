@@ -1,2 +1,13 @@
-1. Creem proiectul 'App'
+1. Creem proiectul 'App' il copiem din materiale:
+- clonam proeictul in 'Fork' si dam la primul razdel din Commituri
 
+2. Instalam 'liveserver'
+
+- controlam versia la 'npm', in CMD : npm -v 
+
+- intslam live-serveru, in cmd : npm install -g live-server
+
+- Accesam unde se apla proictul si cu comanda live-server pornim proiectul in web-browser
+
+in CMD
+D:\1.Andrew Work\4.JavaScript\2.JavaScriptAdvancedProjects [Udemy]\App>live-server
