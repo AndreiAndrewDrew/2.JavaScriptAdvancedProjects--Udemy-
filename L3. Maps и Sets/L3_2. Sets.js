@@ -1,3 +1,6 @@
+//Tot lucru se face in 'app.js' pentru a verifica in browser nu in Output la VS
+//Acest fisier este copia lui 'app.js', pentru invatsare!!!
+
 'use strict'
 
 const arrayUsers = ['Andrew', 'Nasty', 'Eva']
