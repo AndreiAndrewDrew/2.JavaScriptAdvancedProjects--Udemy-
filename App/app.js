@@ -1,8 +1,9 @@
 'use strict'
 
 const myMap = new Map([ //introducem un masiv de masive!!!
-    ['London', '10'],
-    ['Chisinau', '8']
+    ['London', 10],
+    ['Chisinau', 8],
+    ['Paris', 14]
 ])
 console.log(myMap)
 
@@ -11,7 +12,7 @@ console.log(myMap)
 const myObject = {
     london: 10,
     chisinau: 8,
-    paris: 14
+    paris: 12
 }
 
 console.log(Object.entries(myObject)) //[ [ 'london', 10 ], [ 'chisinau', 8 ], [ 'paris', 14 ] ]
