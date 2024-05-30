@@ -30,3 +30,4 @@ console.log(myMap.values()) //intoarce valorile
 //convertam in masive
 console.log([...myMap.keys()]) // masiv din kei
 console.log([...myMap.values()]) // masiv din valori
+
