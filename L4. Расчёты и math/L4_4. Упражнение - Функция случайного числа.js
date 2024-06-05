@@ -17,7 +17,3 @@ console.log(myRandom(1, 3))
 console.log(myRandom(98, 100))
 console.log(myRandom(998, 1001))
 console.log(myRandom(1, 6))
-
-
-
-
