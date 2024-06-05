@@ -15,7 +15,7 @@ function isEvenF(n) {
 }
 
 console.log(isEven(17)) //false
-console.log(isEven(17)) //true
+console.log(isEven(16)) //true
 
 console.log(isEvenF(17)) //false
 console.log(isEvenF(16)) //true
