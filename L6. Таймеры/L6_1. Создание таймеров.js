@@ -24,7 +24,7 @@ console.log(3)
 
 const timer1 = setTimeout(() => {
     console.log('Ex. de aminare a timerului')
-}, 5000)
+}, 4000)
 clearTimeout(timer1) //astfel se sterge timerul
 
 
@@ -34,4 +34,4 @@ const timer2 = setTimeout((message1, message2) => {
     console.log('Mesaj din array')
     console.log(message1)
     console.log(message2)
-}, 6000, ...message)
+}, 5000, ...message)
