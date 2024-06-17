@@ -72,4 +72,3 @@ class AudioBook extends Book { //'AudioBook' se mosteneste de la 'Book'
 const book1 = new AudioBook('Tarzan', 'Tolkin', 1200)
 book1.timeBook()
 book1.buy()
-
