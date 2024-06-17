@@ -42,5 +42,3 @@ console.log(book1 instanceof Book) //true
 //Am controlat daca exemplearul 'book1' apartine lui 'Book'
 //A fost realizata Moshetnirea
 //AudioBook se mosteniste din Book
-
-
