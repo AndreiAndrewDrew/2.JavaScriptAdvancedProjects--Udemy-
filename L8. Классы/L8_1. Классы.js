@@ -20,7 +20,7 @@ class BookClass {
     constructor(title, author) {
         this.title = title
         this.author = author
-    } //metoda rezervata de clasa
+    } //'constructor' metoda rezervata de clasa
 
     read() { //adaugam metoda read()
         this.isRead = true
