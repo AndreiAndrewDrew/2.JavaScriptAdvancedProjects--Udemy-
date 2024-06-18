@@ -20,7 +20,7 @@ class Enemy {
         if (this.health > 0) {
             console.log(this.health)
         } else {
-            console.log('Enemy is Dead!!!')
+            console.log('Simple enemy is Dead!!!')
         }
     }
 }
