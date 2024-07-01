@@ -1,17 +1,12 @@
 'use strict'
+//In browser asa tip de moduli na sa lucreze
 
-const APP = {};
+function add(f, s) {
+    return f + s
+}
 
-(function () {
-    const a = 2
-    function add(f, s) {
-        return f + s
-    }
-    function sub(f, s) {
-        return f - s
-    }
-    APP.calc = {
-        add,
-        sub
-    }
-})()
+function sub(f, s) {
+    return f - s
+}
+
+module.exports = { add, sub }

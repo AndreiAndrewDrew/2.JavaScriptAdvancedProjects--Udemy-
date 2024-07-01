@@ -1,12 +1,8 @@
 'use strict';
+//In browser asa tip de moduli na sa lucreze 
+// numai in terminal controlam executsia modulelor
 
-(function () {
-    const a = 1
+const { add, sub } = require('./calc.js')
 
-    console.log(APP.calc.add(3, 4))
-    console.log(APP.calc.sub(4, 2))
-
-})();
-
-
-
+console.log(add(3, 4))
+console.log(sub(4, 2))
