@@ -1,8 +1,12 @@
 'use strict';
-//In browser asa tip de moduli na sa lucreze 
-// numai in terminal controlam executsia modulelor
 
-const { add, sub } = require('./calc.js')
+import { add, sub } from './calc.js'
 
-console.log(add(3, 4))
-console.log(sub(4, 2))
+console.log('b - se afisheaza din app.js') //se afiseaza al doilea
+
+console.log(add(3, 4)) //se afisheaza al treilea
+console.log(sub(4, 2)) //se afisheaza al patrulea
+
+// setInterval(() => {
+//     console.log(add(3, 4))
+// }, 1000)

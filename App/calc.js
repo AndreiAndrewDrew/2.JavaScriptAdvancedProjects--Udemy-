@@ -1,12 +1,15 @@
-'use strict'
-//In browser asa tip de moduli na sa lucreze
-
-function add(f, s) {
+export function add(f, s) {
     return f + s
 }
 
-function sub(f, s) {
+export function sub(f, s) {
     return f - s
 }
 
-module.exports = { add, sub }
+console.log('a - se afisheaza din calc.js') //se afisheaza primul
+
+// setTimeout(() => {
+//     add = function (f, s) {
+//         return f * s
+//     }
+// }, 1500) 
