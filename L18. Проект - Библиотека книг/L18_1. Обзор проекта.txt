@@ -1,0 +1,6 @@
+Scopurile proiectului:
+
+1. Single Page Application
+2. Structura pe componenete
+3. Mini-framework
+4. Reactivity (Reactivnosti)
