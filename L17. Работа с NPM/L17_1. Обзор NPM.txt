@@ -1,0 +1,9 @@
+NPM (Node Packet Manager) npmjs.com - saitul oficial
+Cind se intsaleaza 'Node' automat se intsaleaza si npm
+
+controlam in cmd:
+C:\Users\Nastea>node -v
+v20.14.0
+
+C:\Users\Nastea>npm -v
+10.7.0
