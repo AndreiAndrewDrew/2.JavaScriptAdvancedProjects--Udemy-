@@ -1,0 +1,22 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "Cool bool app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiAndrewDrew/2.JavaScriptAdvancedProjects--Udemy-.git"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiAndrewDrew/2.JavaScriptAdvancedProjects--Udemy-/issues"
+  },
+  "homepage": "https://purpleschool.ru"
+}
