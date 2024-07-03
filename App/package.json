@@ -4,7 +4,8 @@
   "description": "Cool bool app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server",
+    "build": "rollup"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,9 @@
     "url": "https://github.com/AndreiAndrewDrew/2.JavaScriptAdvancedProjects--Udemy-/issues"
   },
   "homepage": "https://purpleschool.ru",
-  "dependencies": {
-    "axios": "^1.7.2"
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0"
   }
 }
