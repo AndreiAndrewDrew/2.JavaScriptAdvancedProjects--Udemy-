@@ -1,0 +1,5 @@
+Instalam pachetul 'axios'
+in CMD unde se afla aplicatisa 
+D:\1.Andrew Work\4.JavaScript\2.JavaScriptAdvancedProjects [Udemy]\App>npm i axios
+
+

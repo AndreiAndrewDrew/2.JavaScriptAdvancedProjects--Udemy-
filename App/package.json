@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AndreiAndrewDrew/2.JavaScriptAdvancedProjects--Udemy-/issues"
   },
-  "homepage": "https://purpleschool.ru"
+  "homepage": "https://purpleschool.ru",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
 }
